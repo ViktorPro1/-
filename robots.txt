@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://target-and-design-a-simple-start.netlify.app/sitemap.xml
